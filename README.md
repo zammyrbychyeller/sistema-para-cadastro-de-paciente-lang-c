@@ -1,1 +1,3 @@
-# sistema-para-cadastro-de-paciente-lang-c
+# Sistema para cadastro de paciente lang c
+
+Projeto foi desenvolvido em OS Linux - Ubuntu
